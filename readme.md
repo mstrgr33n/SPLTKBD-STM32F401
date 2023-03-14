@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [mr.Gr33n](https://github.com/mr.Gr33n)
+* Keyboard Maintainer: [mr.Gr33n](https://github.com/mstrgr33n)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
